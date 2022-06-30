@@ -1,21 +1,15 @@
 # Hello-Microverse
-> First project : Set up "hello Microverse"
+> First project : Set up "Hello Microverse"
 
 ## Built With
 
 - Html & css
-
-## Getting Started
-
-
-
 
 ## Authors
 
 👤 **Yandir**
 
 - GitHub: [@githubhandle](https://github.com/Yandir1)
-
 
 
 ## Show your support
